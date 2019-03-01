@@ -1,0 +1,9 @@
+#BASES cli
+
+
+
+
+
+mysql -u username -p databaseUsername_ < villes_france.sql
+
+mysql -u username -p databaseUsername_ > villes_france.sql
